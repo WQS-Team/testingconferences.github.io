@@ -247,3 +247,9 @@
   dates: "Summer 2022"
   url: http://qafest.com/en?utm_source=testingconferences
   status: Announced
+  
+- name: World Quality Summit 2021
+  location: Online
+  dates: "September 08, 2021"
+  url: https://worldqualitysummit.com/
+  status: Announced
