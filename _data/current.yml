@@ -4,6 +4,12 @@
   url: https://testinguy.org/edition-2021/?utm_source=testingconferences
   twitter: testingUY
   
+- name: World Quality Summit 2021
+  location: Online
+  dates: "September 08, 2021"
+  url: https://worldqualitysummit.com/
+  status: Announced
+  
 - name: Agile, DevOps and Testing - New Directions in Methods and Tools
   location: Online
   dates: "August 4-5, 2021"
@@ -248,8 +254,4 @@
   url: http://qafest.com/en?utm_source=testingconferences
   status: Announced
   
-- name: World Quality Summit 2021
-  location: Online
-  dates: "September 08, 2021"
-  url: https://worldqualitysummit.com/
-  status: Announced
+
